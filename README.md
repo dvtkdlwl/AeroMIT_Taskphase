@@ -1,4 +1,4 @@
-# AeroMIT_Taskphase
+# AeroMIT Taskphase
 Wide-ranging projects I built during the AeroMIT taskphase 2024-25.
 
 # Domains Covered
