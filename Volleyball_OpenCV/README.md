@@ -22,3 +22,8 @@ Each frame goes through a basic vision pipeline:
 Using a deep learning model would have yielded much better results, but the goal here was to rely entirely on traditional image-processing techniques.
 
 This approach therefore favors simplicity and interpretability over complexity, and focuses on understanding *why* each step works rather than just getting the best possible accuracy.
+
+---
+
+## Screenshots
+![Screenshot](assets/screenshot%20(1).png)
