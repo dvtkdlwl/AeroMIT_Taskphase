@@ -1,4 +1,4 @@
-# Decision Trees
+# Decision Trees Report
 
 A decision tree is a popular machine learning model that can be used for
 both classification and regression. It has multiple nodes- and each of
@@ -17,8 +17,7 @@ only two possible output labels, while it is called a multiple
 classification tree if there are more than 2 possible output target
 labels.
 
-Let's first dive deep on the topic of classification trees, and we shall
-later cover regression trees.
+I will first talk about classification trees, and later cover regression trees.
 
 ## Classification Trees
 
