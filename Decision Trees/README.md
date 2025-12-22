@@ -1,4 +1,4 @@
-**[Decision Trees]{.underline}**
+# Decision Trees
 
 A decision tree is a popular machine learning model that can be used for
 both classification and regression. It has multiple nodes- and each of
@@ -7,9 +7,10 @@ the decision tree, and it is where a testing datapoint first enters the
 decision tree to be classified. Multiple questions are asked about the
 point at every internal node at each level of the decision tree, and on
 the basis of each of these questions, the point finally gets classified
-into one category of output label. ![Decision Tree in Machine
-Learning](media/image1.jpeg){width="6.268055555555556in"
-height="3.4916666666666667in"}
+into one category of output label. 
+<p align = "center">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/4b182f81-a68a-4082-8e27-15e1e8a17ea0" />
+</p>
 
 The decision tree is called a binary classification tree if there are
 only two possible output labels, while it is called a multiple
@@ -19,7 +20,7 @@ labels.
 Let's first dive deep on the topic of classification trees, and we shall
 later cover regression trees.
 
-[Classification Trees:]{.underline}
+## Classification Trees
 
 During training of the classification tree, at the root node, we receive
 the entire training dataset. Our goal is to divide up these datapoints
@@ -54,7 +55,7 @@ testing set, then we can use techniques to aggregate the output data,
 such as majority voting (for classification) or averaging (for
 regression).
 
-[Regression Trees:]{.underline}
+## Regression Trees
 
 While classification trees predict categorical values, regression trees
 predict continuous numerical values e.g. the cost of a house based on 10
@@ -79,7 +80,7 @@ After training, the model retains all these parameters. And then, the
 testing dataset is traversed through this established decision tree in
 order to get an output.
 
-[Overfitting- A Common Problem with Decision Trees:]{.underline}
+## Overfitting- A Common Problem with Decision Trees
 
 Decision trees frequently learn the training data too well, and this
 means that the tree has overfit- i.e. it is not able to generalise well
@@ -121,7 +122,7 @@ b)  *Post-Pruning-* After the­ tree is fully grown, post-pruning involves
     impurity (Gini impurity or entropy) is beneath a ce­rtain threshold
     and therefore is not lucrative enough to create.
 
-[Sampling Techniques- How to Deal With Imbalanced Data?]{.underline}
+## Sampling Techniques- How to Deal With Imbalanced Data?
 
 We come across very imbalanced data frequently. Imbalanced data refers
 to data that has a majority and minority class- i.e. one target label is
