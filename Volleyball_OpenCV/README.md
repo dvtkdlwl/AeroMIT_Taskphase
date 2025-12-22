@@ -26,4 +26,9 @@ This approach therefore favors simplicity and interpretability over complexity, 
 ---
 
 ## Screenshots
-![Screenshot](assets/screenshot%20(1).png)
+<p align="center">
+    <img width="500" alt="screenshot (1)" src="https://github.com/user-attachments/assets/24b3ce43-770d-47b3-9985-30dbc469985b" />
+    <img width="500" alt="screenshot (2)" src="https://github.com/user-attachments/assets/0ff34430-200b-4737-9bc1-6cb8c8b792b0" />
+    <img width="500" alt="screenshot (3)" src="https://github.com/user-attachments/assets/6b0b03b9-4de1-4164-b456-511e582464c6" />
+
+</p>
