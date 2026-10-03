@@ -1,5 +1,5 @@
-# Decision Trees Report
-
+# Decision Trees
+## The following is a report I wrote as proof of conceptual understanding during my AeroMIT Autonomous Flight Systems taskphase.
 A decision tree is a popular machine learning model that can be used for
 both classification and regression. It has multiple nodes- and each of
 these nodes serves a different purpose. The root node is the starting of
