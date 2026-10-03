@@ -21,11 +21,10 @@ Wide-ranging projects I built during the AeroMIT taskphase 2024-25.
 ## Machine Learning
 1. Linear Regression (from scratch & using libraries)
 2. Decision Trees
-3. Logistic Regression
 
 ## Deep Learning
 Convolutional neural networks tackling specific problem statements.
 
 ## ROS2
-1. MAVROS and Gazebo
+1. Drone Simulations with MAVROS and Gazebo
 2. Leader-follower turtles using teleop turtles.
