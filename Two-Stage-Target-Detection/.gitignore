@@ -1,0 +1,14 @@
+# Base pretrained weights (Ultralytics downloads these automatically)
+yolov8s.pt
+yolo11n.pt
+
+# Training/prediction outputs (keep only what's copied into weights/ and assets/)
+runs/
+
+# Datasets
+dataset/
+dataset_binary/
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
