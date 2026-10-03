@@ -1,3 +1,7 @@
+# Working Notes
+
+*The following are working notes I wrote while fine-tuning my thought process for the project.*
+
 first eliminating the pitch as well as all the white lines (this isolates the players ENTIRELY).
 this resultant image is then fed into a generalcontours function which effectively identifies all the separate players from the audience. it plots these coordinates onto a pure black frame as white rectangular blobs.
 then, we colour-mask red players and isolate them in order to use bitwise_and on this image as well as the pure black frame's blobs.
