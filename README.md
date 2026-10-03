@@ -23,7 +23,9 @@ Wide-ranging projects I built during the AeroMIT taskphase 2024-25.
 2. Decision Trees
 
 ## Deep Learning
-Convolutional neural networks tackling specific problem statements.
+Convolutional neural networks built for specific problem statements.
+
+**Real vs Fake Target Detection**: Detects bullseye landing targets from a live camera feed and rejects fake ones. A MobileNetV3 classifier filters out fakes first, then YOLOv8 localises the real targets.
 
 ## ROS2
 1. Drone Simulations with MAVROS and Gazebo
