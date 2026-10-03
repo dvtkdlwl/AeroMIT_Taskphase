@@ -31,3 +31,4 @@ The classifier's "not fake" class includes both real targets and plain backgroun
 - `data.yaml`: YOLO dataset config
 - `Target_Identification_YOLO.ipynb`: first version, YOLO only. It couldn't tell a fake target from an empty frame, which is why I added the classifier.
 - `weights/`: trained classifier and YOLO weights
+- `requirements.txt`: Python libraries used
